@@ -5,10 +5,16 @@
 A collection of concise write-ups on small things. 
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Rails](#rails)
+* [Rspec](#rspec)
+
+### Rails
+- [Conditional Style Class Names](rails/conditional-style-class-names.md)
+### Rspec
+- [Feature and Scenario DSL](rspec/feature-and-scenario-dsl.md)

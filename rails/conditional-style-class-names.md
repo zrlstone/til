@@ -2,7 +2,7 @@
 
 The class_names provides a way to conditionally add classes to html tags (introduced in rails 6.1).
 
-```
+```ruby
   <%= link_to(
     "Home",
     root_path,
