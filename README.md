@@ -16,5 +16,6 @@ _2 TILs and counting..._
 
 ### Rails
 - [Conditional Style Class Names](rails/conditional-style-class-names.md)
+- [Exporting CSV from Rails Console](rails/export-csv-from-console.md)
 ### Rspec
 - [Feature and Scenario DSL](rspec/feature-and-scenario-dsl.md)
